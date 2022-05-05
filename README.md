@@ -1,7 +1,6 @@
-<img src="https://mobcoder.com/blog/wp-content/uploads/Mern.jpg" alt="MERN" />
 <h1 align="center">Hi 👋, I'm Talal Ahmed</h1>
 <h3 align="center">Strategic, Hardworking, Software Developer from Pakistan 🇵🇰</h3>
-
+<img src="https://mobcoder.com/blog/wp-content/uploads/Mern.jpg" alt="MERN" style="width: 50px;"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talal02&label=Profile%20views&color=0e75b6&style=flat" alt="talal02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talal02" alt="talal02" /></a> </p>
