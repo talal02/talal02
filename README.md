@@ -1,3 +1,4 @@
+<img src="https://mobcoder.com/blog/wp-content/uploads/Mern.jpg" alt="MERN" />
 <h1 align="center">Hi 👋, I'm Talal Ahmed</h1>
 <h3 align="center">Strategic, Hardworking, Software Developer from Pakistan 🇵🇰</h3>
 
